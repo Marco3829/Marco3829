@@ -1,16 +1,17 @@
-## Hi there 👋
+¡Hola! 👋 Soy Marco
 
-<!--
-**Marco3829/Marco3829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de 1.º de SMR (Sistemas Microinformáticos y Redes).
 
-Here are some ideas to get you started:
+🚀 Actualmente estoy aprendiendo sobre:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️ Sistemas operativos
+
+🌐 Redes informáticas
+
+🔧 Montaje y mantenimiento de equipos
+
+💻 Programación y nuevas tecnologías
+
+🎯 Mi objetivo es ampliar mis conocimientos, mejorar mis habilidades y crear nuevos proyectos.
+
+📚 Siempre dispuesto a aprender y mejorar.
